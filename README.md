@@ -34,8 +34,7 @@ My proudest moments
    - Getting to grips with algorithtims to reverse linked lists
    - Understanding Morris In-Order-Tree Traversal
 
-Here's a Trie I made!
-`    
+Here's a Trie I made!   
 
     class TrieNode {
          constructor() {
@@ -72,4 +71,3 @@ Here's a Trie I made!
              }
          return node.wordEnd
          }
-  `
