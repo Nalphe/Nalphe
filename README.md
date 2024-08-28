@@ -2,7 +2,7 @@
 
 I'm Joe, 
 
-I've been learning the basics of programming for a few months, particulalry focusing on JS, but also exploring the basics of Python, Bash, SQL, React. I'm excited to keep learning and growing my understanding!
+I've been learning the basics of programming for a few months, particulalry focusing on JS, but also exploring the basics of Python, Bash, SQL and React. I'm excited to keep learning and growing my understanding!
 
 ## My Journey so far
 
